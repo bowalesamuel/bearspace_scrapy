@@ -2,6 +2,7 @@
 
 Requirements:
 chrome version=108.0.5359.99 (Official Build) (64-bit) (cohort: Stable) 
+jupyter notebook
 
 ## Steps in executing this project
 1. clone this repository
